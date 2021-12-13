@@ -1,13 +1,12 @@
 # Personnal PHP Framework
 
-![Alt text](./public/storage/php.svg) ![Alt text](./public/storage/my-sql.svg)  ![Alt text](./public/storage/mvc-architecture.svg)
-![Alt text](./public/storage/html-5.svg) ![Alt text](./public/storage/css-3.svg)
+![Badge](./public/storage/php.svg) ![Badge](./public/storage/my-sql.svg)  ![Badge](./public/storage/mvc-architecture.svg)
+![Badge](./public/storage/html-5.svg) ![Badge](./public/storage/css-3.svg)
 
 ## Table of contents 
 
 * [General informations](#general-informations)
 * [Organisation](#organisation)
-* [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General informations
